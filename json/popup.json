@@ -2,42 +2,42 @@
 	"popup":[
 		{
 			"id":"data1",
-			"img":"img/experience/_chnpp.jpg",
+			"img":"img/experience/chnpp.jpg",
 			"h4":" Chernobyl nuclear power plant ",
 			"position":"An engineer on the organization and standardization of work",
 			"duties":" Participation in performance appraisal of workplaces; Performance of works on tariffing; Carrying out works aimed at maintaining the level of labor standardization at the enterprise; Check of official and working instructions;"
 		},
 		{
 			"id":"data2",
-			"img":"img/experience/_gaz.jpg",
+			"img":"img/experience/gaz.jpg",
 			"h4":" Regional gas company ",
 			"position":"An economist - Head of Labor and Wages Department",
 			"duties":" Control of the work of the department; Development of a part of the budget in terms of FOT and the number of staff; Calculated cost; Conducting competitive bidding procedures; Conducting time and photos of working hours; Check the time sheets; Preparation of periodic reports;"
 		},
 		{
 			"id":"data3",
-			"img":"img/experience/_pb.jpg",
+			"img":"img/experience/pb.jpg",
 			"h4":" PrivateBank ",
 			"position":"A specialist",
 			"duties":" Conclusion of loan agreements; Attraction of consumers;"
 		},
 		{
 			"id":"data4",
-			"img":"img/experience/_otherWork.jpg",
+			"img":"img/experience/otherWork.jpg",
 			"h4":" Other experience ",
 			"position":"Support specialist",
 			"duties":" Advising clients; The analysis of logs Apache, Nginx; Working with WordPress; Work on the UNIX command line;"
 		},
 		{
 			"id":"data5",
-			"img":"img/experience/_cs50.jpg",
+			"img":"img/experience/cs50.jpg",
 			"h4":"CS50",
 			"position":"CS50 (Computer Science 50) is a course on computer science from Harvard.",
 			"duties":"Basics C; Basics PHP; Basics HTML; Basics CSS; Basics JavaScript;"
 		},
 		{
 			"id":"data6",
-			"img":"img/experience/_donNu.jpg",
+			"img":"img/experience/donNu.jpg",
 			"h4":"DonNU",
 			"position":"Faculty of Economics",
 			"duties":" Human resources management and labor economics;"
