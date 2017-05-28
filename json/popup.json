@@ -29,13 +29,6 @@
 			"duties":" Advising clients; The analysis of logs Apache, Nginx; Working with WordPress; Work on the UNIX command line;"
 		},
 		{
-			"id":"data5",
-			"img":"img/experience/cs50.jpg",
-			"h4":"CS50",
-			"position":"CS50 (Computer Science 50) is a course on computer science from Harvard.",
-			"duties":"Basics C; Basics PHP; Basics HTML; Basics CSS; Basics JavaScript;"
-		},
-		{
 			"id":"data6",
 			"img":"img/experience/donNu.jpg",
 			"h4":"DonNU",
