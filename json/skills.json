@@ -43,6 +43,13 @@
 			"img":"img/skills/phantom.png"
 		},
 		{
+			"link":"http://browserify.org/",
+			"alt":"browserify",
+			"className":"all js",
+			"img":"img/skills/browserify.png"
+			
+		},
+		{
 			"link":"https://jasmine.github.io/",
 			"alt":"jasmine",
 			"className":"all js",
