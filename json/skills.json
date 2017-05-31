@@ -7,10 +7,46 @@
 			"img":"img/skills/bower.png"
 		},
 		{
+			"link":"https://www.npmjs.com/",
+			"alt":"npm",
+			"className":"all rand",
+			"img":"img/skills/npm.png"
+		},
+		{
+			"link":"http://gulpjs.com/",
+			"alt":"gulp",
+			"className":"all rand",
+			"img":"img/skills/gulp.png"
+		},
+		{
 			"link":"https://github.com/",
 			"alt":"git",
 			"className":"all rand",
 			"img":"img/skills/git.png"
+		},
+		{
+			"link":"https://www.adobe.com/products/photoshop.html?sdid=KKQIN&mv=search&s_kwcid=AL!3085!3!155836184321!e!!g!!photoshop&ef_id=WHe-5gAAAEg49x9o:20170317122813:s",
+			"alt":"photoshop",
+			"className":"all rand",
+			"img":"img/skills/ps.png"
+		},
+		{
+			"link":"https://ru.wikipedia.org/wiki/JavaScript",
+			"alt":"js",
+			"className":"all js",
+			"img":"img/skills/js.png"
+		},
+		{
+			"link":"http://es6-features.org/#Constants",
+			"alt":"es6",
+			"className":"all js",
+			"img":"img/skills/es6.png"
+		},
+		{
+			"link":"https://facebook.github.io/react/",
+			"alt":"react",
+			"className":"all js",
+			"img":"img/skills/react.png"
 		},
 		{
 			"link":"http://api.jquery.com/",
@@ -25,10 +61,17 @@
 			"img":"img/skills/lodash.png"
 		},
 		{
-			"link":"https://ru.wikipedia.org/wiki/JavaScript",
-			"alt":"js",
+			"link":"http://browserify.org/",
+			"alt":"browserify",
 			"className":"all js",
-			"img":"img/skills/js.png"
+			"img":"img/skills/browserify.png"
+			
+		},
+		{
+			"link":"https://ru.wikipedia.org/wiki/AJAX",
+			"alt":"ajax",
+			"className":"all js",
+			"img":"img/skills/ajax.png"
 		},
 		{
 			"link":"https://ru.wikipedia.org/wiki/JSON",
@@ -43,41 +86,22 @@
 			"img":"img/skills/phantom.png"
 		},
 		{
-			"link":"http://browserify.org/",
-			"alt":"browserify",
-			"className":"all js",
-			"img":"img/skills/browserify.png"
-			
-		},
-		{
 			"link":"https://jasmine.github.io/",
 			"alt":"jasmine",
 			"className":"all js",
 			"img":"img/skills/jasmine.png"
 		},
 		{
-			"link":"https://www.npmjs.com/",
-			"alt":"npm",
-			"className":"all rand",
-			"img":"img/skills/npm.png"
-		},
-		{
-			"link":"https://www.adobe.com/products/photoshop.html?sdid=KKQIN&mv=search&s_kwcid=AL!3085!3!155836184321!e!!g!!photoshop&ef_id=WHe-5gAAAEg49x9o:20170317122813:s",
-			"alt":"photoshop",
-			"className":"all rand",
-			"img":"img/skills/ps.png"
+			"link":"https://babeljs.io/",
+			"alt":"babel",
+			"className":"all js",
+			"img":"img/skills/babel.png"
 		},
 		{
 			"link":"http://www.php.net/",
 			"alt":"php",
 			"className":"all rand",
 			"img":"img/skills/php.png"
-		},
-		{
-			"link":"https://facebook.github.io/react/",
-			"alt":"react",
-			"className":"all js",
-			"img":"img/skills/react.png"
 		},
 		{
 			"link":"http://sass-lang.com/",
@@ -90,12 +114,6 @@
 			"alt":"wp",
 			"className":"all rand",
 			"img":"img/skills/wp.png"
-		},
-		{
-			"link":"https://ru.wikipedia.org/wiki/AJAX",
-			"alt":"ajax",
-			"className":"all js",
-			"img":"img/skills/ajax.png"
 		},
 		{
 			"link":"https://ru.bem.info/",
@@ -122,12 +140,6 @@
 			"img":"img/skills/canvas.png"
 		},
 		{
-			"link":"http://gulpjs.com/",
-			"alt":"gulp",
-			"className":"all rand",
-			"img":"img/skills/gulp.png"
-		},
-		{
 			"link":"https://ru.wikipedia.org/wiki/HTML",
 			"alt":"html",
 			"className":"all html",
@@ -146,22 +158,10 @@
 			"img":"img/skills/svg.png"
 		},
 		{
-			"link":"https://babeljs.io/",
-			"alt":"babel",
-			"className":"all js",
-			"img":"img/skills/babel.png"
-		},
-		{
 			"link":"http://fontawesome.ru/all-icons/",
 			"alt":"fontAwesome",
 			"className":"all html",
 			"img":"img/skills/fa.png"
-		},
-		{
-			"link":"http://es6-features.org/#Constants",
-			"alt":"es6",
-			"className":"all js",
-			"img":"img/skills/es6.png"
 		},
 		{
 			"link":"https://www.sublimetext.com/",
