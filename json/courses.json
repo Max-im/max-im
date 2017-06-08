@@ -1,0 +1,212 @@
+[
+	{
+		"id"	:"data10",
+		"img"	:"img/devPanel/courses/goIt.jpg",
+		"h4"	:"go-it",
+		"cls"	: "courses__item",
+		"link"	:"https://app.schoology.com/home"
+	},
+	{
+		"id"	:"data8",
+		"img"	:"img/devPanel/courses/freecodecamp.jpg",
+		"h4"	:"freecodecamp",
+		"cls"	: "courses__item",
+		"link"	:"https://www.freecodecamp.com/"
+	},
+	{
+		"id"	:"data7",
+		"img"	:"img/devPanel/courses/edx.jpg",
+		"h4"	:"edx",
+		"cls"	: "courses__item",
+		"link"	:"https://courses.edx.org/dashboard"
+	},
+
+	{
+		"id"	:"data6",
+		"img"	:"img/devPanel/courses/coursera.jpg",
+		"h4"	:"coursera",
+		"cls"	: "courses__item",
+		"link"	:"https://www.coursera.org/"
+	},
+	{
+		"id"	:"data4",
+		"img"	:"img/devPanel/courses/codecademy.jpg",
+		"h4"	:"codecademy",
+		"cls"	: "courses__item",
+		"link"	:"https://www.codecademy.com/learn"
+	},
+	{
+		"id"	: "data1",
+		"img"	: "img/devPanel/courses/brainBasket.jpg",
+		"h4"	: "brain Basket",
+		"cls"	: "courses__item",
+		"link"	: "https://brainbasket.org/ru/homepage/"
+	},
+	{
+		"id" 	: "data2",
+		"img"	: "img/devPanel/courses/checkio.jpg",
+		"h4" 	: "checkio",
+		"cls"	: "game courses__item",
+		"link"	: "https://js.checkio.org/"
+	},
+	{
+		"id"	:"data3",
+		"img"	:"img/devPanel/courses/code.jpg",
+		"h4"	:"code",
+		"cls"	: "courses__item",
+		"link"	:"https://studio.code.org/courses"
+	},
+
+	{
+		"id"	:"data5",
+		"img"	:"img/devPanel/courses/codeWars.jpg",
+		"h4"	:"codewars",
+		"cls"	: "game courses__item",
+		"link"	:"https://www.codewars.com/dashboard"
+	},
+	{
+		"id"	:"data21",
+		"img"	:"img/devPanel/courses/prometheus.jpg",
+		"h4"	:"prometheus",
+		"cls"	: "courses__item",
+		"link"	:"https://edx.prometheus.org.ua/dashboard"
+	},
+		
+	{
+		"id"	:"data9",
+		"img"	:"img/devPanel/courses/git.jpg",
+		"h4"	:"git",
+		"cls"	: "courses__item",
+		"link"	:"https://githowto.com/"
+	},
+	
+	{
+		"id"	:"data11",
+		"img"	:"img/devPanel/courses/htmlAcademy.jpg",
+		"h4"	:"htmlacademy",
+		"cls"	: "courses__item",
+		"link"	:"https://htmlacademy.ru/"
+	},
+	{
+		"id"	:"data12",
+		"img"	:"img/devPanel/courses/hubr.jpg",
+		"h4"	:"hubrahubr",
+		"cls"	: "courses__item",
+		"link"	:"https://m.habrahabr.ru/company/javarush/blog/304464/"
+	},
+	{
+		"id"	:"data13",
+		"img"	:"img/devPanel/courses/itvdn.jpg",
+		"h4"	:"itvdn",
+		"cls"	: "courses__item",
+		"link"	:"https://itvdn.com/ru"
+	},
+	{
+		"id"	:"data14",
+		"img"	:"img/devPanel/courses/javarush.jpg",
+		"h4"	:"javarush",
+		"cls"	: "courses__item",
+		"link"	:"https://javarush.ru/"
+	},
+	{
+		"id"	:"data15",
+		"img"	:"img/devPanel/courses/khan.jpg",
+		"h4"	:"khan",
+		"cls"	: "courses__item",
+		"link"	:"https://www.khanacademy.org/"
+	},
+	{
+		"id"	:"data16",
+		"img"	:"img/devPanel/courses/learnByDoing.jpg",
+		"h4"	:"learn by doing",
+		"cls"	: "courses__item",
+		"link"	:"https://www.codeschool.com/"
+	},
+	{
+		"id"	:"data17",
+		"img"	:"img/devPanel/courses/lifecodingTv.jpg",
+		"h4"	:"lifeCoding.tv",
+		"cls"	: "courses__item",
+		"link"	:"https://www.liveedu.tv/"
+	},
+	{
+		"id"	:"data18",
+		"img"	:"img/devPanel/courses/loftschool.jpg",
+		"h4"	:"loftschool",
+		"cls"	: "courses__item",
+		"link"	:"https://loftschool.com/dashboard#/profile"
+	},
+	{
+		"id"	:"data19",
+		"img"	:"img/devPanel/courses/lynda.jpg",
+		"h4"	:"lynda",
+		"cls"	: "courses__item",
+		"link"	:"https://www.lynda.com/"
+	},
+	{
+		"id"	:"data20",
+		"img"	:"img/devPanel/courses/mongoDb.jpg",
+		"h4"	:"mongoDb",
+		"cls"	: "courses__item",
+		"link"	:"https://university.mongodb.com/"
+	},
+	
+	{
+		"id"	:"data22",
+		"img"	:"img/devPanel/courses/quizful.jpg",
+		"h4"	:"quizful",
+		"cls"	: "courses__item",
+		"link"	:"http://www.quizful.net/test"
+	},
+	{
+		"id"	:"data23",
+		"img"	:"img/devPanel/courses/smartme.jpg",
+		"h4"	:"smartme",
+		"cls"	: "courses__item",
+		"link"	:"http://smartme.university/"
+	},
+	{
+		"id"	:"data24",
+		"img"	:"img/devPanel/courses/stepic.jpg",
+		"h4"	:"stepic",
+		"cls"	: "courses__item",
+		"link"	:"https://stepik.org/catalog?language=en"
+	},
+	{
+		"id"	:"data25",
+		"img"	:"img/devPanel/courses/treehouse.jpg",
+		"h4"	:"treehouse",
+		"cls"	: "courses__item",
+		"link"	:"https://teamtreehouse.com/"
+	},
+	{
+		"id"	:"data26",
+		"img"	:"img/devPanel/courses/udacity.jpg",
+		"h4"	:"udacity",
+		"cls"	: "courses__item",
+		"link"	:"https://www.udacity.com/courses/all"
+	},
+	{
+		"id"	:"data27",
+		"img"	:"img/devPanel/courses/udemy.jpg",
+		"h4"	:"udemy",
+		"cls"	: "courses__item",
+		"link"	:"https://www.udemy.com/courses/"
+	},
+	{
+
+		"id"	:"data28",
+		"img"	:"img/devPanel/courses/webBos.jpg",
+		"h4"	:"webBos",
+		"cls"	: "courses__item",
+		"link"	:"http://wesbos.com/"
+	},
+	{
+
+		"id"	:"data29",
+		"img"	:"img/devPanel/courses/tutorialsPoint.jpg",
+		"h4"	:"tutorialsPoint",
+		"cls"	: "courses__item",
+		"link"	:"https://www.tutorialspoint.com/index.htm"
+	}
+]
