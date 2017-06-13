@@ -208,5 +208,15 @@
 		"h4"	:"tutorialsPoint",
 		"cls"	: "courses__item",
 		"link"	:"https://www.tutorialspoint.com/index.htm"
+	},
+	{
+
+		"id"	:"data30",
+		"img"	:"img/devPanel/courses/google.jpg",
+		"h4"	:"google",
+		"cls"	: "courses__item",
+		"link"	:"https://developers.google.com/products/develop/"
 	}
+
+	
 ]

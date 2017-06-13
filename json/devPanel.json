@@ -1,0 +1,1224 @@
+[
+{
+	"soc" : {
+		"mails":[
+			{
+				"name": "Gmail",
+				"link": "https://mail.google.com/mail/u/0/h/1c3qrlmlg3evr/?&",
+				"cls":"malilLink",
+				"hoverCls":""
+			},
+			{
+				"name": "MailRu",
+				"link":"https://mail.ru/",
+				"cls":"malilLink",
+				"hoverCls":""
+			},	
+			{
+				"name": "UkrNet",
+				"link":"https://mail.ukr.net/desktop#msglist/f0/p0",
+				"cls":"malilLink",
+				"hoverCls":""
+			}
+		],
+
+
+		"work":[
+			{
+				"name":"Work.ua",
+				"link":"https://www.work.ua/jobseeker/my/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"rabota.ua",
+				"link":"http://rabota.ua/jobsearch/notepad/cvs",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"work",
+				"link":"https://vk.com/wall-79831840_13417",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"work",
+				"link":"https://vk.com/wall-54530371_106608",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"work",
+				"link":"http://eleks.com/career/vacancy/lviv",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"work",
+				"link":"https://vk.com/wall-30666517_1446456",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"work",
+				"link":"http://vk.com/wall-79831840_10936",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"work",
+				"link":"https://vk.com/wall-79831840_14840 ",
+				"cls":"",
+				"hoverCls":""
+			}
+		],
+
+
+		"tools":[
+			{
+				"name":"GitHub",
+				"link":"https://github.com/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Bitbucket",
+				"link":"https://bitbucket.org/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"gist",
+				"link":"https://gist.github.com/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"CodePen",
+				"link":"http://codepen.io/#",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"JSFiddle",
+				"link":"https://fiddle.jshell.net/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"CyberChef",
+				"link":"https://gchq.github.io/CyberChef/cyberchef.htm",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"mongoDB terminal",
+				"link":"https://www.tutorialspoint.com/mongodb_terminal_online.php",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"hosting php",
+				"link":"https://www.000webhost.com/members/website/list",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"webHosting",
+				"link":"https://firebase.google.com/",
+				"cls":"",
+				"hoverCls":""
+			}
+			
+		]
+	},
+
+
+	"prepare": {
+
+		"environment":[
+			{
+				"name":"startTemplate",
+				"link":"https://github.com/Max-im/startTemplate",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Markdown",
+				"link":"https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Soundcloud",
+				"link":"https://soundcloud.com/web-standards/tracks",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Sublime Text",
+				"link":"https://habrahabr.ru/post/154667/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Sublime HotKey",
+				"link":"http://sublimetext.ru/documentation/hotkeys/windows",
+				"cls":"",
+				"hoverCls":""
+			}
+		],
+
+
+		"fonts":[
+			{
+				"name":"Google Fonts",
+				"link":"https://www.google.com/fonts",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Font Awesome",
+				"link":"http://fontawesome.ru/all-icons/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Русские шрифты",
+				"link":"http://fonts4web.ru/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Font Squirrel",
+				"link":"https://www.fontsquirrel.com/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Linea Free Iconset",
+				"link":"http://linea.io/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Icons for Everything",
+				"link":"https://thenounproject.com/",
+				"cls":"",
+				"hoverCls":""
+			}
+		],
+
+
+		"backgrounds":[
+			{
+				"name":"Wireframe.cc",
+				"link":"https://wireframe.cc/",
+				"cls":"",
+				"hoverCls":""
+			},	
+			{
+				"name":"flatui",
+				"link":"http://gradientbuttons.colorion.co/popular",
+				"cls":"",
+				"hoverCls":""
+			},	
+			{
+				"name":"Названия цветов",
+				"link":"http://colorscheme.ru/color-names.html",
+				"cls":"",
+				"hoverCls":""
+			},		
+			{
+				"name":"Subtle Patterns",
+				"link":"http://subtlepatterns.com/",
+				"cls":"",
+				"hoverCls":""
+			},		
+			{
+				"name":"Фоны для проектов",
+				"link":"https://lifehacker.ru/2016/08/24/besplatnye-fony/",
+				"cls":"",
+				"hoverCls":""
+			},		
+			{
+				"name":"StockSnap",
+				"link":"https://stocksnap.io/",
+				"cls":"",
+				"hoverCls":""
+			},		
+			{
+				"name":"цветовые палитры",
+				"link":"http://discovercolor.ru/",
+				"cls":"",
+				"hoverCls":""
+			},		
+			{
+				"name":"Dribbble",
+				"link":"https://dribbble.com/",
+				"cls":"",
+				"hoverCls":""
+			},		
+			{
+				"name":"Colors",
+				"link":"https://www.adme.ru/tvorchestvo-dizajn/krutaya-shpargalka-po-sochetaniyu-cvetov-1169610/",
+				"cls":"article",
+				"hoverCls":""
+			},		
+			{
+				"name":"Img64",
+				"link":"https://www.base64-image.de",
+				"cls":"article",
+				"hoverCls":""
+			}
+		],
+
+
+		"random":[
+			{
+				"name":"WordPress",
+				"link":"https://wordpress.com/read/feeds/46221779",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"agragregra’s gists",
+				"link":"https://gist.github.com/agragregra",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"puzankov",
+				"link":"https://github.com/puzankov",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"TodoMVC",
+				"link":"http://todomvc.com/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Jsexercises.com",
+				"link":"http://www.searchesinteractive.com/?dn=jsexercises.com&pid=9POW531R4",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Essential JavaScript website.",
+				"link":"https://github.com/ericelliott/essential-javascript-links",
+				"cls":"",
+				"hoverCls":""
+			}
+		]
+	},
+
+
+
+	"html":{
+		"microdata":[
+			{	
+				"name":"Open Graph",
+				"link":"http://ruogp.me/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{	
+				"name":"Schema",
+				"link":"http://schema.org/docs/schemas.html",
+				"cls":"",
+				"hoverCls":""
+			},
+			{	
+				"name":"Тестирование",
+				"link":"https://search.google.com/structured-data/testing-tool",
+				"cls":"",
+				"hoverCls":""
+			},
+			{	
+				"name":"Яндекс.Вебмастер",
+				"link":"https://webmaster.yandex.ru/tools/microtest/",
+				"cls":"",
+				"hoverCls":""
+			}
+		],
+
+
+		"articles":[
+			{
+				"name":"BEM",
+				"link":"https://css-tricks.com/bem-101/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Flexbox",
+				"link":"http://html5.by/blog/flexbox/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Box Shadow Effects",
+				"link":"https://paulund.co.uk/learn-css-box-shadow",
+				"cls":"",
+				"hoverCls":""
+			}
+		]
+	},
+
+
+	"js":{
+
+		"libraries":[
+			{
+				"name":"jQuery",
+				"link":"http://api.jquery.com/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name": "Lodash",
+				"link":"https://lodash.com/docs/4.16.3",
+				"cls":"",
+				"hoverCls":""
+			}
+		],
+
+
+		"plagins":[
+			{
+				"name":"Annotated ES5",
+				"link":"http://es5.github.io/spec.html",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Parallax",
+				"link":"http://pixelcog.github.io/parallax.js/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Animate.css",
+				"link":"https://daneden.github.io/animate.css/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Animated page scrolling",
+				"link":"https://github.com/malihu/page-scroll-to-id",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"MixItUp",
+				"link":"https://mixitup.kunkalabs.com/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"animate",
+				"link":"https://uxplanet.org/popular-web-animation-techniques-a6a467309028",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"loaders",
+				"link":"https://connoratherton.com/loaders",
+				"cls":"",
+				"hoverCls":""
+			}
+		],
+
+
+		"react":[
+			{
+				"name":"react",
+				"link":"https://m.habrahabr.ru/post/315466/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"https://learnredux.com/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"https://habrahabr.ru/post/317114/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"http://reactkungfu.com/2015/10/the-difference-between-virtual-dom-and-dom/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"https://vk.com/wall-79831840_13978",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"https://vk.com/wall-79831840_13980",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"https://m.habrahabr.ru/company/piter/blog/316684/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"http://vk.com/wall-30666517_1430547",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"http://vk.com/wall-30666517_1418788",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"http://vk.com/wall-30666517_1417385",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"http://vk.com/wall-54530371_90703",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"http://vk.com/wall-30666517_1435033",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"http://vk.com/wall-79831840_11043",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"http://vk.com/wall-30666517_1435248",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"https://habrahabr.ru/post/315506/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"http://vk.com/wall-54530371_96902",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"https://vk.com/wall-54530371_99107",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"http://vk.com/wall-30666517_1423797",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react",
+				"link":"http://vk.com/wall-30666517_1421993",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"react!!!",
+				"link":"https://github.com/rtivital/react-things",
+				"cls":"",
+				"hoverCls":""
+			}
+		],
+
+
+		"games":[
+			{
+				"name":"game+",
+				"link":"https://habrahabr.ru/post/259907/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"http://www.independent-software.com/stretching-the-limits-of-css-3-amazing-creations-in-pure-css/ ",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"https://css-tricks.com/nerds-guide-color-web/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"http://vk.com/wall-54530371_96945",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"https://habrahabr.ru/company/edison/blog/316072/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"http://vk.com/wall-30666517_1440193",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"http://vk.com/wall-54530371_96163",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"http://vk.com/wall-30666517_1418028",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"http://vk.com/wall-38306835_13098",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"http://vk.com/wall-30666517_1428133",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"http://vk.com/wall-30666517_1433807",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"http://vk.com/wall-79831840_10833",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"http://vk.com/wall-30666517_1431899",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"http://vk.com/wall-30666517_1441124",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"http://vk.com/wall-54530371_98341",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"https://m.habrahabr.ru/post/316880/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"https://m.habrahabr.ru/post/317030/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"https://vk.com/wall-79831840_11936",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"https://vk.com/wall-54530371_98595",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"https://vk.com/wall-54530371_98719",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"https://vk.com/wall-54530371_98745",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"https://vk.com/wall-54530371_98946",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"https://m.facebook.com/story.php?story_fbid=1631966803495518&id=472597926099084",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"https://vk.com/wall-79831840_12098",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"https://vk.com/wall-30666517_1447425",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"game+",
+				"link":"https://vk.com/wall-54530371_113480",
+				"cls":"",
+				"hoverCls":""
+			}
+		],
+
+
+		"node":[
+			{
+				"name":"node+",
+				"link":"http://vuejs.org/guide/ ",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-54530371_94353",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-54530371_96114",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-30666517_1425046 ",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-30666517_1425587 ",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-30666517_1425851 ",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-54530371_92114 ",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-79831840_10478 ",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-30666517_1427404 ",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-54530371_92612 ",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"https://codingsec.net/2016/06/6-best-html5-libraries-2016/ ",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-30666517_1428215",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-54530371_92826",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-54530371_93148",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-54530371_93249",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"https://vk.com/wall-79831840_13222",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"https://m.habrahabr.ru/post/314186/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-54530371_93743",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-54530371_93959",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-30666517_1431335",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-54530371_90771",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-30666517_1435383",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-30666517_1436298 ",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-30666517_1438230",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"https://m.facebook.com/story.php?story_fbid=1605974866094712&id=472597926099084",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"http://vk.com/wall-54530371_97738",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"https://vk.com/wall-54530371_99038",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"https://vk.com/wall-79831840_12964",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"https://vk.com/wall-79831840_12933",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"https://vk.com/wall-30666517_1464301",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"https://vk.com/wall-79831840_13680",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"node+",
+				"link":"https://vk.com/wall-30666517_1474683",
+				"cls":"",
+				"hoverCls":""
+			}
+
+		],
+
+
+		"tests":[
+			{
+				"name":"test",
+				"link":"http://vk.com/wall-30666517_1418775 ",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"test",
+				"link":"http://vk.com/wall-54530371_94523  ",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"test",
+				"link":"https://vk.com/wall-79831840_14272 ",
+				"cls":"",
+				"hoverCls":""
+			}
+		],
+
+
+		"useful":[
+			{
+				"name":"18 онлайн-игр",
+				"link":"https://tproger.ru/digest/learn-to-code-while-playing-games/",
+				"cls":"",
+				"hoverCls":""
+			}
+		]
+	},
+
+
+	"english":[
+		{
+			"name":"Сериалы на английском",
+			"link":"http://lelang.ru/english/series/",
+			"cls":"",
+			"hoverCls":""
+		},
+		{
+			"name":"Фильмы онлайн",
+			"link":"http://english-films.com/",
+			"cls":"",
+			"hoverCls":""
+		},
+		{
+			"name":"Стена",
+			"link":"https://vk.com/wall-64980863_66023",
+			"cls":"",
+			"hoverCls":""
+		},
+		{
+			"name":"Стена",
+			"link":"https://vk.com/wall-64980863_66143",
+			"cls":"",
+			"hoverCls":""
+		},
+		{
+			"name":"eng",
+			"link":"http://vk.com/wall-64980863_53665  ",
+			"cls":"",
+			"hoverCls":""
+		},
+		{
+			"name":"eng",
+			"link":"http://vk.com/wall-64980863_53883  ",
+			"cls":"",
+			"hoverCls":""
+		},
+		{
+			"name":"eng",
+			"link":"http://vk.com/wall-79831840_10451  ",
+			"cls":"",
+			"hoverCls":""
+		},
+		{
+			"name":"eng",
+			"link":"http://vk.com/wall-64980863_56304  ",
+			"cls":"",
+			"hoverCls":""
+		},
+		{
+			"name":"eng",
+			"link":"http://vk.com/wall-64980863_56978  ",
+			"cls":"",
+			"hoverCls":""
+		},
+		{
+			"name":"eng",
+			"link":"https://www.facebook.com/groups/1091272847596104/permalink/1221726564550731/  ",
+			"cls":"",
+			"hoverCls":""
+		},
+		{
+			"name":"eng",
+			"link":"https://www.adme.ru/zhizn-nauka/9-knig-s-kotorymi-legko-i-priyatno-uchit-anglijskij-1070210/ ",
+			"cls":"",
+			"hoverCls":""
+		},
+		{
+			"name":"eng",
+			"link":"https://vk.com/wall-64980863_58066  ",
+			"cls":"",
+			"hoverCls":""
+		},
+		{
+			"name":"eng",
+			"link":"https://vk.com/wall-64980863_61005  ",
+			"cls":"",
+			"hoverCls":""
+		},
+		{
+			"name":"eng",
+			"link":"https://vk.com/wall-64980863_63469   ",
+			"cls":"",
+			"hoverCls":""
+		}
+	],
+
+
+	"news":[
+		{
+			"name":"CSS-Tricks",
+			"link":"https://css-tricks.com/",
+			"cls":"",
+			"hoverCls":""
+		},
+
+		{
+			"name":"CSS-live.ru",
+			"link":"http://css-live.ru/",
+			"cls":"",
+			"hoverCls":""
+		},
+
+		{
+			"name":"JavaScript Гарден",
+			"link":"http://bonsaiden.github.io/JavaScript-Garden/ru/",
+			"cls":"",
+			"hoverCls":""
+		},
+
+		{
+			"name":"Типичный программист",
+			"link":"https://tproger.ru/tag/javascript/",
+			"cls":"",
+			"hoverCls":""
+		}
+	],
+
+
+
+
+	"personal":{
+		"photo":[
+			{
+				"name":"camera simulator",
+				"link":"http://www.canonoutsideofauto.ca/play/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"100 полезных ресурсов",
+				"link":"https://lifehacker.ru/2015/03/03/100-fotoresursov/?utm_source=fb&utm_medium=lifehacker.ru&utm_campaign=no_auto",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"camera simulator",
+				"link":"http://camerasim.com/apps/original-camerasim/web/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Bokeh simulator",
+				"link":"http://dofsimulator.net/en/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"20 поз для женской фотосессии",
+				"link":"https://www.adme.ru/tvorchestvo-fotografy/20-samyh-udachnyh-poz-dlya-zhenskoj-fotosessii-1011060/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"40 каналов, чтобы научиться рисовать",
+				"link":"https://www.adme.ru/tvorchestvo-hudozhniki/40-luchshih-youtube-kanalov-chtoby-nauchitsya-risovat-1381465/",
+				"cls":"",
+				"hoverCls":""
+			},
+
+			{
+				"name":"videoCut",
+				"link":"http://online-video-cutter.com/ru/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"видео конвертер",
+				"link":"http://convert-video-online.com/ru/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"mediaConv",
+				"link":"https://cloudconvert.com/mp4-to-mp4",
+				"cls":"",
+				"hoverCls":""
+			}
+		],
+
+
+		"travel":[
+			{
+				"name":"Покупон",
+				"link":"https://pokupon.ua/landingpage-st/multi1?template=10&number=21&cat=misc&city=1&ref=102720&utm_source=google&utm_medium=cpc&utm_campaign=gs_brand_services_kiev&utm_content=gs_brand_services_kiev&utm_term=%D0%BA%D1%83%D0%BF%D0%BE%D0%BD%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BE%D0%BD&gclid=Cj0KEQjwo5--BRCS8ceLjv-XppUBEiQAGp15EBMu-xc8wBquoeWVJXH-VfnU6z91J9WCesSXcvwnNZgaAnXU8P8HAQ",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"AЛГОЛЬ",
+				"link":"http://www.algol.com.ua/home/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Аккорд-тур",
+				"link":"http://www.akkord-tour.com.ua/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Туры по Украине",
+				"link":"http://kraina-ua.com/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Владо Тур",
+				"link":"http://vladotour.com.ua/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"60 сервисов, чтобы путешествовать самостоятельно",
+				"link":"https://www.adme.ru/svoboda-puteshestviya/60-servisov-i-prilozhenij-chtoby-puteshestvovat-samostoyatelno-1378965/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Рейтинг лучших туроператоров",
+				"link":"http://delo.ua/rates/travel-agencies-rating/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"BlaBlaCar",
+				"link":"https://www.blablacar.com.ua/",
+				"cls":"",
+				"hoverCls":""
+			},
+			{
+				"name":"Укрзалізниця",
+				"link":"http://booking.uz.gov.ua/",
+				"cls":"",
+				"hoverCls":""
+			}
+		],
+
+		
+		"other":[
+			{
+				"name":"shop",
+				"link":"http://ua.sportsdirect.com/",
+				"cls":"",
+				"hoverCls":""
+			}
+		]
+	}
+}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
