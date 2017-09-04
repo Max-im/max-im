@@ -18,6 +18,13 @@
 			"className":"all rand",
 			"img":"img/skills/gulp.png"
 		},
+		,
+		{
+			"link":"https://webpack.github.io/",
+			"alt":"webpack",
+			"className":"all rand",
+			"img":"img/skills/webpack.png"
+		}
 		{
 			"link":"https://github.com/",
 			"alt":"git",
@@ -31,12 +38,6 @@
 			"img":"img/skills/ps.png"
 		},
 		{
-			"link":"https://ru.wikipedia.org/wiki/JavaScript",
-			"alt":"js",
-			"className":"all js",
-			"img":"img/skills/js.png"
-		},
-		{
 			"link":"http://es6-features.org/#Constants",
 			"alt":"es6",
 			"className":"all js",
@@ -47,6 +48,12 @@
 			"alt":"react",
 			"className":"all js",
 			"img":"img/skills/react.png"
+		},
+		{
+			"link":"https://ru.vuejs.org/",
+			"alt":"vue",
+			"className":"all js",
+			"img":"img/skills/vue.png"
 		},
 		{
 			"link":"http://api.jquery.com/",
@@ -98,10 +105,10 @@
 			"img":"img/skills/babel.png"
 		},
 		{
-			"link":"http://www.php.net/",
-			"alt":"php",
-			"className":"all rand",
-			"img":"img/skills/php.png"
+			"link":"https://nodejs.org/en/docs/",
+			"alt":"node",
+			"className":"all js",
+			"img":"img/skills/node.png"
 		},
 		{
 			"link":"http://sass-lang.com/",
@@ -109,6 +116,7 @@
 			"className":"all html",
 			"img":"img/skills/sass.png"
 		},
+		
 		{
 			"link":"https://wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fwordpress.com%2Fread%2Ffeeds%2F46221779",
 			"alt":"wp",
@@ -156,12 +164,6 @@
 			"alt":"svg",
 			"className":"all html",
 			"img":"img/skills/svg.png"
-		},
-		{
-			"link":"http://fontawesome.ru/all-icons/",
-			"alt":"fontAwesome",
-			"className":"all html",
-			"img":"img/skills/fa.png"
 		},
 		{
 			"link":"https://www.sublimetext.com/",
