@@ -18,13 +18,12 @@
 			"className":"all rand",
 			"img":"img/skills/gulp.png"
 		},
-		,
 		{
 			"link":"https://webpack.github.io/",
 			"alt":"webpack",
 			"className":"all rand",
 			"img":"img/skills/webpack.png"
-		}
+		},
 		{
 			"link":"https://github.com/",
 			"alt":"git",
