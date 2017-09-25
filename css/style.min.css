@@ -5,3 +5,6 @@
 .animated.bounceIn, .animated.bounceOut, .animated.flipOutX, .animated.flipOutY{
     animation-duration: .4s;
 }
+.hideNew{
+	display: none;
+}
