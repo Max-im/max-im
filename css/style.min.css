@@ -5,6 +5,21 @@
 .animated.bounceIn, .animated.bounceOut, .animated.flipOutX, .animated.flipOutY{
     animation-duration: .4s;
 }
+.header{
+	position: relative;
+}
+.flag{
+	&__resursable{
+		position: absolute;
+		top: 20px;
+		left: 0;
+		width: 100px;
+		height: 30px;
+		background: orange;
+		color: #fff;
+		border-radius: 0 15px 15px 0;	
+	}
+}
 .hideNew{
 	display: none;
 }
