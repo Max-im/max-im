@@ -1,0 +1,14 @@
+body{
+	min-height: 100vh;
+}
+
+.main{
+	padding: 50px 0;
+}
+
+.page-footer{
+	left: 0;
+	bottom: 0;
+	width: 100%;
+}
+
