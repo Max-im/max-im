@@ -1,20 +1,71 @@
 
-  <div class="col s12 m7">
-    <h2 class="header">Delete</h2>
-    <div class="card horizontal">
-      <div class="card-image">
-        <img src="https://lorempixel.com/100/190/nature/6">
-      </div>
-      <div class="card-stacked">
-        <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.</p>
-        </div>
-        <div class="card-action">
-          <a href="#">This is a link</a>
+  <h2 class="header">Delete</h2>
+  <div class="col s12">
+    <div class="col s12">
+      <div class="card blue-grey darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">FRONTEND</span>
+          <pre>
+  function removeItem(e){
+    e.preventDefault();
+    const target = e.target.closest('.myElement');
+    const id = $(target).data('id');
+
+    const data = {
+      id: id
+    }
+
+    $.ajax({
+      type: 'DELETE',
+      data: JSON.stringify(data),
+      contentType: 'application/json',
+      url: url           
+    })
+    .done(function(result){
+      getItems();
+    });
+  }
+      
+  
+          </pre>
         </div>
       </div>
     </div>
+
+
+
   </div>
             
 
-<a class="waves-effect waves-light btn btn__delete">button</a>
+
+  <div class="col s12">
+    <div class="col s12">
+      <div class="card blue-grey darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">BACKEND</span>
+          <pre>
+removeItem: function(req, res){
+  res.send('res');
+  MongoClient.connect(process.env.DB_URI, (error, db) => {
+    if(error){
+      return console.log('Unable to connect');
+    }
+
+    db.collection('tessssst').findOneAndDelete({
+       "_id" : new ObjectID(req.body.id)
+    });
+
+    db.close();
+  });
+}
+  
+          </pre>
+        </div>
+      </div>
+    </div>
+
+
+
+  </div>
+            
+

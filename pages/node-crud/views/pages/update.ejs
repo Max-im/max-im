@@ -1,20 +1,89 @@
 
-  <div class="col s12 m7">
-    <h2 class="header">Update</h2>
-    <div class="card horizontal">
-      <div class="card-image">
-        <img src="https://lorempixel.com/100/190/nature/6">
-      </div>
-      <div class="card-stacked">
-        <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.</p>
-        </div>
-        <div class="card-action">
-          <a href="#">This is a link</a>
+  <h2 class="header">Update</h2>
+  <div class="col s12">
+    <div class="col s12">
+      <div class="card blue-grey darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">FRONTEND</span>
+          <pre>
+function updateItem(e){
+  e.preventDefault();
+  const target = e.target.closest('.card');
+  const data = {
+    id: $(e.target).closest('.myElement').data('id')
+  };
+  const modal = ************!!! tmpl !!!**************
+  const nameVal = $(target).find('.card-title').text();
+  const phoneVal = $(target).find('.card-val').text();
+
+
+  $(target).append(modal).find('.modalName').select();
+  $(target).find('.modalName').val(nameVal);
+  $(target).find('.modalPhone').val(phoneVal);
+  $('.btn__ok').on('click', okClick);
+
+
+  function okClick(e){
+    e.preventDefault();
+    data.name = $(target).find('.modalName').val();
+    data.phone = $(target).find('.modalPhone').val();
+    $(target).closest('.myElement').find('.updateModal').remove();
+    
+    $.ajax({
+      type: 'PUT',
+      data: JSON.stringify(data),
+      contentType: 'application/json',
+      url: url            
+    })
+    .done(function(result){
+      getItems();
+    });
+  }
+}        
+
+          </pre>
         </div>
       </div>
     </div>
+
+
+
   </div>
             
 
-<a class="waves-effect waves-light btn btn__update">button</a>
+
+  <div class="col s12">
+    <div class="col s12">
+      <div class="card blue-grey darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">BACKEND</span>
+          <pre>
+updateItem: function(req, res){
+  res.send('res');
+  MongoClient.connect(process.env.DB_URI, (error, db) => {
+    if(error){
+      return console.log('Unable to connect');
+    }
+
+    db.collection('tessssst').findOneAndUpdate(
+    {"_id" : new ObjectID(req.body.id)},
+    {
+      $set: { name: req.body.name, val: req.body.phone },
+      
+    },
+    { returnOriginal: false });
+
+    db.close();
+  });
+}
+  
+          </pre>
+        </div>
+      </div>
+    </div>
+
+
+
+  </div>
+            
+

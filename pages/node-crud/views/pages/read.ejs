@@ -1,20 +1,92 @@
 
-  <div class="col s12 m7">
-    <h2 class="header">Read</h2>
-    <div class="card horizontal">
-      <div class="card-image">
-        <img src="https://lorempixel.com/100/190/nature/6">
-      </div>
-      <div class="card-stacked">
-        <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.</p>
-        </div>
-        <div class="card-action">
-          <a href="#">This is a link</a>
+  <h2 class="header">Read</h2>
+  <div class="col s12">
+    <div class="col s12">
+      <div class="card blue-grey darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">FRONTEND</span>
+          <pre>
+function getItems(e){
+
+  const arr = [];
+  $('.myElement:not(.hide)').remove();
+
+  $.ajax({
+    type: 'GET',
+    contentType: 'application/json',
+    url: url+'/getData',
+      
+    success: function(data){
+      
+      data.map( function(item, index) {
+      
+        $('.tmpl')
+          .clone()
+          .removeClass('hide tmpl')
+          .addClass('myElement')
+          .appendTo('.myContent');
+
+        arr.push({
+          id: item._id,
+          name: item.name,
+          val: item.val
+        });
+      
+      });
+
+      $('.myElement').each( function(elem){
+
+        this.setAttribute('data-id', arr[elem].id)
+        $(this).find('.card-title').text(arr[elem].name);
+        $(this).find('.card-val').text(arr[elem].val);
+      });
+
+      $('.btn__delete').on('click', removeItem);
+      $('.btn__update').on('click', updateItem);
+    }
+  });
+}           
+  
+          </pre>
         </div>
       </div>
     </div>
+
+
+
   </div>
             
 
-<a class="waves-effect waves-light btn btn__read">button</a>
+
+  <div class="col s12">
+    <div class="col s12">
+      <div class="card blue-grey darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">BACKEND</span>
+          <pre>
+getData: function(req, res){
+
+  MongoClient.connect(process.env.DB_URI, (error, db) => {
+    if(error){
+      return console.log('Unable to connect');
+    }
+
+    db.collection('tessssst').find().toArray().then( (docs) => {
+      res.send(docs)
+
+    });
+
+    db.close();
+  });
+}
+  
+          </pre>
+        </div>
+      </div>
+    </div>
+
+
+
+  </div>
+            
+

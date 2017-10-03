@@ -11,6 +11,10 @@ module.exports = router;
 router.get('/', exampleController.showHome);
 router.post('/', exampleController.addItem);
 router.delete('/', exampleController.removeItem);
+router.put('/', exampleController.updateItem);
+router.get('/getData', exampleController.getData);
+
+
 
 router.get('/create', createController.showHome);
 router.get('/read', readController.showHome);

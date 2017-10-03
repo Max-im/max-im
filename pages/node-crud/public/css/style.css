@@ -12,3 +12,23 @@ body{
 	width: 100%;
 }
 
+.myContent{
+	min-height: 200px;
+}
+
+.card{
+	position: relative;
+}
+
+
+.updateModal{
+	position: absolute;
+	padding: 15px;
+	box-sizing: border-box;
+	border: 2px solid #ee6e73;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: #fff;
+}
