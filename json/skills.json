@@ -31,12 +31,7 @@
 			"className":"all rand",
 			"img":"img/skills/git.png"
 		},
-		{
-			"link":"https://www.adobe.com/products/photoshop.html?sdid=KKQIN&mv=search&s_kwcid=AL!3085!3!155836184321!e!!g!!photoshop&ef_id=WHe-5gAAAEg49x9o:20170317122813:s",
-			"alt":"photoshop",
-			"className":"all rand",
-			"img":"img/skills/ps.png"
-		},
+		
 		{
 			"link":"http://es6-features.org/#Constants",
 			"alt":"es6",
@@ -133,7 +128,12 @@
 			"className":"all html",
 			"img":"img/skills/sass.png"
 		},
-		
+		{
+			"link":"https://www.adobe.com/products/photoshop.html?sdid=KKQIN&mv=search&s_kwcid=AL!3085!3!155836184321!e!!g!!photoshop&ef_id=WHe-5gAAAEg49x9o:20170317122813:s",
+			"alt":"photoshop",
+			"className":"all rand",
+			"img":"img/skills/ps.png"
+		},
 		{
 			"link":"https://wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fwordpress.com%2Fread%2Ffeeds%2F46221779",
 			"alt":"wp",
