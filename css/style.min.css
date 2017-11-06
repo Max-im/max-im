@@ -7,13 +7,15 @@
 }
 .header{
 	position: relative;
-	left: 0;
-	width: 100px;
-	height: 30px;
-	color: #fff;
-	line-height: 30px;
-	text-align: center;
-	border-radius: 0 15px 15px 0;	
+}
+.flag{
+  left: 0;
+  width: 100px;
+  height: 30px;
+  color: #fff;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 0 15px 15px 0; 
 }
 .flag__resursable{
   position: absolute;
