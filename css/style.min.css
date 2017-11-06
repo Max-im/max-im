@@ -7,19 +7,27 @@
 }
 .header{
 	position: relative;
-}
-.flag__resursable{
-	position: absolute;
-	top: 20px;
 	left: 0;
 	width: 100px;
 	height: 30px;
-	background: orange;
 	color: #fff;
 	line-height: 30px;
 	text-align: center;
 	border-radius: 0 15px 15px 0;	
 }
+.flag__resursable{
+  position: absolute;
+  background: orange;
+  top: 20px;
+}
+
+.flag__tutorials{
+  position: absolute;
+  background: #ff0900;
+  top: 80px;
+}
+
+
 .hideNew{
 	display: none;
 }

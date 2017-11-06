@@ -231,7 +231,7 @@ const prepare = {
                 "name":"Markdown",
                 "img": "",
                 "thumbnail": "markdown.svg",
-                "link":"https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet",
+                "link":"https://www.markdownguide.org/basic-syntax",
                 "hint": "git decor"
             }
         ]
