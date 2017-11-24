@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: tahoma, Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.wrapper{
+	border: 1px solid #333;
+	margin: 0 auto;
+	width: 80%;
+}
+
+
+.tabs{
+	background: #ccc;
+	text-align: center;
+	font-size: 0;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+	padding: 10px 30px;
+	background: #999;
+	border: 1px solid #333;
+	border-bottom: 0;
+	margin: 10px 0 0 0;
+	font-size: 20px;
+	border-radius: 20px 20px 0 0;
+}
+
+
+li:hover{
+	background: #1c9edc;
+	/*background: #666;*/
+}
+
+li:active,
+.active{
+	background: #1c9edc linear-gradient(140deg, #1c9edc 0%, #1c9edc 10%, #1b96d1 10%, #1b96d1 20%, #198bc2 19%, #198ec6 21%, #198ec6 20%, #198ec6 30%, #1783b7 29%, #1886bb 31%, #1886bb 30%, #1886bb 40%, #167bac 39%, #177eb0 41%, #177eb0 40%, #177eb0 50%, #1573a1 49%, #1576a5 51%, #1576a5 50%, #1576a5 60%, #136b96 59%, #146e9a 61%, #146e9a 60%, #146e9a 70%, #12638b 69%, #12668f 71%, #12668f 70%, #12668f 80%, #105b80 79%, #115f84 81%, #115f84 80%, #115f84 90%, #0f5475 89%, #105779 91%, #105779 90%, #105779 100%);
+	color: #fff;
+}
+
+.active:hover{
+	background: #1c9edc linear-gradient(140deg, #1c9edc 0%, #1c9edc 10%, #1b96d1 10%, #1b96d1 20%, #198bc2 19%, #198ec6 21%, #198ec6 20%, #198ec6 30%, #1783b7 29%, #1886bb 31%, #1886bb 30%, #1886bb 40%, #167bac 39%, #177eb0 41%, #177eb0 40%, #177eb0 50%, #1573a1 49%, #1576a5 51%, #1576a5 50%, #1576a5 60%, #136b96 59%, #146e9a 61%, #146e9a 60%, #146e9a 70%, #12638b 69%, #12668f 71%, #12668f 70%, #12668f 80%, #105b80 79%, #115f84 81%, #115f84 80%, #115f84 90%, #0f5475 89%, #105779 91%, #105779 90%, #105779 100%);
+}
+
+.content{
+	display: none;
+background: #1c9edc linear-gradient(90deg, #1c9edc 0%, #1c9edc 10%, #1b96d1 10%, #1b96d1 20%, #198bc2 19%, #198ec6 21%, #198ec6 20%, #198ec6 30%, #1783b7 29%, #1886bb 31%, #1886bb 30%, #1886bb 40%, #167bac 39%, #177eb0 41%, #177eb0 40%, #177eb0 50%, #1573a1 49%, #1576a5 51%, #1576a5 50%, #1576a5 60%, #136b96 59%, #146e9a 61%, #146e9a 60%, #146e9a 70%, #12638b 69%, #12668f 71%, #12668f 70%, #12668f 80%, #105b80 79%, #115f84 81%, #115f84 80%, #115f84 90%, #0f5475 89%, #105779 91%, #105779 90%, #105779 100%);
+	color: #fff;
+	padding: 20px;
+}
+
+
+form{
+	margin: 10px;
+}
+input{
+	display: block;
+	margin: 20px;
+	background: #9696fa; 
+	padding: 5px 10px;
+	border-top: 2px solid #17174b;
+	border-left: 2px solid #17174b;
+	border-bottom: 2px solid #bfbfe0;
+	border-right: 2px solid #bfbfe0;
+}
+
+.tooltip{
+	position: fixed;
+	padding: 10px;
+	border: 1px solid #b3c9ce;
+    border-radius: 4px;
+    text-align: center;
+    font-style: italic;
+    color: #333;
+    background: #fff;
+}

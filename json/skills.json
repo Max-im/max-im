@@ -45,6 +45,12 @@
 			"img":"img/skills/react.png"
 		},
 		{
+			"link":"https://en.wikipedia.org/wiki/Redux_(JavaScript_library)",
+			"alt":"redux",
+			"className":"all js",
+			"img":"img/skills/redux.png"
+		},
+		{
 			"link":"https://angular.io/",
 			"alt":"angular4",
 			"className":"all js",

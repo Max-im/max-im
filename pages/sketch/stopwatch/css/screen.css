@@ -1,0 +1,153 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+html {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+q, blockquote {
+  quotes: none;
+}
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+a img {
+  border: none;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block;
+}
+
+body {
+  background: url(../img/dark_embroidery.png);
+  text-align: center;
+}
+
+.row .h1 {
+  color: #aaa;
+  text-transform: uppercase;
+  text-shadow: 0px 0px 1px #aaaaaa;
+}
+
+.clockDiv {
+  height: 300px;
+  margin: 20px 0;
+  background: #eee;
+  border: 5px solid #111;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 30px;
+  -moz-box-shadow: 0px 0px 15px #fff;
+  -webkit-box-shadow: 0px 0px 15px #fff;
+  box-shadow: 0px 0px 15px #fff;
+}
+.clockDiv .hours{
+  font-size: 80px;
+  line-height: 200px;
+  margin: 50px 0 0 70px;
+  display: inline-block;
+  color: green;
+  font-weight: bold;
+  display: inline-block;
+  width: 100%;
+  text-align: left;
+}
+/*.clockDiv .hours:after,
+.clockDiv .minutes:after,
+.clockDiv .seconds:after {
+  content: ':';
+}*/
+/*.clockDiv .mSeconds {
+  display: inline-block;
+  font-size: 30px;
+  margin: 0 10px;
+  color: green;
+  width: 80px;
+}*/
+
+.btn {
+  width: 150px;
+  margin: 0 30px;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+  opacity: 0.7;
+}
+
+.btn:hover {
+  filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
+  opacity: 1;
+}
+
+.btn-danger:hover {
+  -moz-box-shadow: 0px 0px 10px #f00;
+  -webkit-box-shadow: 0px 0px 10px #f00;
+  box-shadow: 0px 0px 10px #f00;
+}
+
+.btn-success:hover {
+  -moz-box-shadow: 0px 0px 10px #0f0;
+  -webkit-box-shadow: 0px 0px 10px #0f0;
+  box-shadow: 0px 0px 10px #0f0;
+}
+
+
+.col-md-12 .btn-warning{
+  display: none;
+  width: 80px;
+  height: 80px;
+  margin: 10px auto;
+ -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+
+
+.col-md-12 .btn-warning:hover{
+  -moz-box-shadow: 0px 0px 10px #efb619;
+  -webkit-box-shadow: 0px 0px 10px #efb619;
+  box-shadow: 0px 0px 10px #efb619; 
+}
+
+.forResult{
+  color: #fff;
+  font-size: 30px;
+}
