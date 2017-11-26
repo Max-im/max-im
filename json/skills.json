@@ -26,17 +26,10 @@
 			"img":"img/skills/webpack.png"
 		},
 		{
-			"link":"https://github.com/",
-			"alt":"git",
-			"className":"all rand",
-			"img":"img/skills/git.png"
-		},
-		
-		{
-			"link":"http://es6-features.org/#Constants",
-			"alt":"es6",
+			"link":"https://angular.io/",
+			"alt":"angular4",
 			"className":"all js",
-			"img":"img/skills/es6.png"
+			"img":"img/skills/angular.png"
 		},
 		{
 			"link":"https://facebook.github.io/react/",
@@ -51,16 +44,22 @@
 			"img":"img/skills/redux.png"
 		},
 		{
-			"link":"https://angular.io/",
-			"alt":"angular4",
-			"className":"all js",
-			"img":"img/skills/angular.png"
-		},
-		{
 			"link":"https://ru.vuejs.org/",
 			"alt":"vue",
 			"className":"all js",
 			"img":"img/skills/vue.png"
+		},
+		{
+			"link":"https://github.com/",
+			"alt":"git",
+			"className":"all rand",
+			"img":"img/skills/git.png"
+		},
+		{
+			"link":"http://es6-features.org/#Constants",
+			"alt":"es6",
+			"className":"all js",
+			"img":"img/skills/es6.png"
 		},
 		{
 			"link":"http://api.jquery.com/",
