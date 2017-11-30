@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	color: #333;
+	text-align: center;
+	background: #ddd;
+}
+
+
+.container{
+	width: 100%;
+	max-width: 1200px;
+	min-width: 320px;
+	margin: 0 auto;
+	padding: 0 15px;
+	box-sizing: border-box;
+}
+
+
+#canvasEl{
+	width: 800px;
+	height: 600px;
+	border: 3px solid #009688;
+	margin: 30px 0 0 0;
+}
