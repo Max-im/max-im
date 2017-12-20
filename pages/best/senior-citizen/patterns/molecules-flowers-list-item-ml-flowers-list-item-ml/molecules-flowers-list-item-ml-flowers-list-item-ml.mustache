@@ -1,0 +1,16 @@
+<div class="flowers__block">
+  <div class="flowers__imgWrap">
+    {{#img}} {{> atoms-img}} {{/img}}
+  </div>
+
+  <ul class="flowers__list">
+    {{#list}}
+    <li class="flowers__listItem">
+      <h4 class="flowers__listTitle">{{title}}</h4>
+      <p class="flowers__listText">{{text}}</p>
+    </li>
+    {{/list}}
+  </ul>
+
+  <button class="btn flowers__btn">{{btn}}</button>
+</div>

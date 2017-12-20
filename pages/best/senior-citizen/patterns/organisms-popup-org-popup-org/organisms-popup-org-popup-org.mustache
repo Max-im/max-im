@@ -1,0 +1,40 @@
+<form id="momentPopup" class="container popup__moment white-popup-block mfp-hide">
+
+  <div class="container_inner">
+    {{#title-popup}} {{> molecules-title-ml}} {{/title-popup}}
+
+    <div class="popup__momentContent">
+      <div class="popup__photoPickerWrap">
+
+        <div class="popup__photoPicker">
+          <img class="popup__pickerImg" src="../../../images/icons/folderIcon.png" alt="folder">
+          <input type="file" class="popup__photoPicker_inner">
+        </div>
+
+        <ul class="popup__thumbnailList">
+          {{#list-thumb}}
+          <li class="popup__thumbnaiItem">
+            <img src="{{src}}" alt="thumbnail">
+          </li>
+          {{/list-thumb}}
+        </ul>
+
+      </div> {{!-- popup__photoPickerWrap --}}
+
+      <div class="popup__inputWrap">
+        <input type="text" name="popup__momentText" placeholder="U berchrift moment" class="popup__momentsInp popup__momentText" id="popup__momentText">
+
+        <textarea class="popup__momentsInp popup__momentTextarea" placeholder="Lorem ipsum dolor sit amet" name="popup__momentTextarea" id="popup__momentTextarea" cols="30" rows="10">
+        </textarea>
+
+        <button type="submit" class="popup__submit">
+          {{#submit}}
+            {{> atoms-footer-btn}}
+          {{/submit}}
+        </button>
+      </div>
+    </div>
+
+  </div>
+
+</form>

@@ -1,0 +1,20 @@
+<section class="photoBlock section">
+  <div class="container_inner">
+    {{#photo-org}} {{> molecules-title-ml}}
+    <ul class="photoBlock__list">
+      {{#list}}
+      <li class="photoBlock__item">
+        {{> atoms-img}}
+      </li>
+      {{/list}}
+    </ul>
+    {{/photo-org}}
+
+
+    <div class="about__mehrWrap photoBlock__mehrWrap">
+      <div class="about__mehr">
+        {{#mehr}} {{> atoms-img}} {{> atoms-text}} {{> atoms-img}} {{/mehr}}
+      </div>
+    </div>
+  </div>
+</section>

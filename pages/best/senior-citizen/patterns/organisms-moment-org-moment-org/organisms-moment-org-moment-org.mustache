@@ -1,0 +1,35 @@
+<section class="moment section">
+  <div class="container_inner">
+
+    <div class="moment__titleWrap">
+      {{#moment-org}} {{> molecules-title-ml}} {{/moment-org}}
+      <a href="#momentPopup" class="moment__plus">+</a>
+    </div>
+
+    <div class="moment__carousel">
+      {{#carousel}}
+      <div class="moment__item">
+        <div class="moment__imgWrap">
+          {{> atoms-img}}
+        </div>
+        <div class="moment__content">
+          {{#title}} {{> atoms-text}} {{/title}} {{#text}} {{> atoms-text}} {{/text}} {{#text2}} {{> atoms-text}} {{/text2}}
+        </div>
+      </div>
+      {{/carousel}}
+    </div>
+
+    <div class="about__mehrWrap photoBlock__mehrWrap">
+      <div class="about__mehr">
+        {{#mehr}} {{> atoms-img}} {{> atoms-text}} {{> atoms-img}} {{/mehr}}
+      </div>
+    </div>
+
+    <div class="btn__wrap moment__btnWrap">
+      <div class="btn__inner">
+        {{#btn}} {{> atoms-text}} {{/btn}}
+      </div>
+    </div>
+
+  </div>
+</section>

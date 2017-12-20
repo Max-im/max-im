@@ -1,0 +1,27 @@
+<footer class="footer">
+  <div class="container_inner">
+
+    <div class="footer__logoWrap">
+      {{#logo}} {{> molecules-logo-ml}} {{/logo}}
+    </div>
+
+    <div class="footer__socWrap">
+      {{#soc}} {{> molecules-soc-list-ml}} {{/soc}}
+    </div>
+
+    <div class="footer__btnWrap">
+      {{#btn-list}} {{> molecules-footer-btn-list-ml}} {{/btn-list}}
+    </div>
+
+    <ul class="footer__menuWrap">
+      {{#menu}}
+      <li class="footer__menuItem">
+        <a class="footer__menuLink" href="{{link}}">
+            {{{menuText}}}
+          </a>
+      </li>
+      {{/menu}}
+    </ul>
+
+  </div>
+</footer>

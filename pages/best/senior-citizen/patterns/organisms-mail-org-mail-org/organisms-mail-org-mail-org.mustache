@@ -1,0 +1,24 @@
+<section class="mail section">
+  <div class="container_inner">
+    {{#mail-title}} {{> molecules-title-ml}} {{/mail-title}}
+
+    <div class="mail__content">
+      {{#mail-icon}} {{> atoms-img}} {{/mail-icon}}
+
+      <h4 class="mail__subtitle">5 Personen dachten an Max</h4>
+
+      <p class="mail__text">Hier kannst du all deine Gedanken loswerden. Schreib dir von der Seele, was du Max schon immer sagen wolltest.
+        <b>Keine Sorge</b>: Niemand auser Max wird deine Worte lesen.</p>
+    </div>
+    <textarea name="mailArea" id="mailArea" class="mail__textArea" cols="30" rows="10">
+    </textarea>
+
+    <div class="btn__wrap mail__btnWrap">
+      <div class="btn__inner mail__btnInner">
+        <button class="btn mail__btn">
+          deine gedanken an Max schicken
+        </button>
+      </div>
+    </div>
+  </div>
+</section>
