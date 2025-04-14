@@ -12,9 +12,6 @@
 </p>
 
 <div align='center'>
-  <h1>
-    📈 Statistic
-  </h1>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max-im&theme=nord_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=max-im&theme=nord_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max-im&theme=nord_dark"/>  
