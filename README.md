@@ -3,7 +3,7 @@
     👋 Hi there, I'm Max
   </h1>
   <h3>
-    Full-Stack Web Developer | JavaScript & Node.js & React.js Specialist
+    Full-Stack Software Engineer | Web Developer
   </h3>
 </div>
 
